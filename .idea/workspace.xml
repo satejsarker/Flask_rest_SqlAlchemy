@@ -4,6 +4,7 @@
     <list default="true" id="dd5f2dc8-42f9-4f5c-beff-c70587de88ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uwsgi.ini" beforeDir="false" afterPath="$PROJECT_DIR$/uwsgi.ini" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,18 +87,18 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="22" />
-          <entry key="ini" value="99" />
+          <entry key="ini" value="105" />
           <entry key="md" value="261" />
           <entry key="py" value="2822" />
           <entry key="sql" value="24" />
-          <entry key="txt" value="231" />
+          <entry key="txt" value="247" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Ini" value="99" />
+          <entry key="Ini" value="105" />
           <entry key="Markdown" value="261" />
-          <entry key="PLAIN_TEXT" value="253" />
+          <entry key="PLAIN_TEXT" value="269" />
           <entry key="Python" value="2822" />
           <entry key="Scratch" value="24" />
         </counts>
@@ -139,7 +140,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/runtime.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -148,11 +149,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="311">
+              <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -160,8 +161,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/uwsgi.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="92">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -239,10 +240,10 @@
         <option value="$PROJECT_DIR$/resources/store.py" />
         <option value="$PROJECT_DIR$/Readme.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/runtime.txt" />
         <option value="$PROJECT_DIR$/app.py" />
-        <option value="$PROJECT_DIR$/uwsgi.ini" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/uwsgi.ini" />
+        <option value="$PROJECT_DIR$/runtime.txt" />
       </list>
     </option>
   </component>
@@ -565,7 +566,21 @@
       <option name="project" value="LOCAL" />
       <updated>1546155659674</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="deployment bug">
+      <created>1546155886531</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1546155886531</updated>
+    </task>
+    <task id="LOCAL-00009" summary="deployment bug">
+      <created>1546156247104</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1546156247104</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -586,7 +601,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25081968" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25081968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -595,7 +610,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3295082" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -641,7 +656,8 @@
     <MESSAGE value="git ignore added" />
     <MESSAGE value="deployment" />
     <MESSAGE value="deployment requirment" />
-    <option name="LAST_COMMIT_MESSAGE" value="deployment requirment" />
+    <MESSAGE value="deployment bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="deployment bug" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resources/__init__.py">
@@ -759,10 +775,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/uwsgi.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="92">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -770,13 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
