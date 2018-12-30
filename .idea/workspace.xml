@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd5f2dc8-42f9-4f5c-beff-c70587de88ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Flask_sql/.idea/Flask_sql.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flask_sql/.idea/dataSources/009a0f35-92f2-4449-96bb-6bfa7da21045/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flask_sql/.idea/dataSources/613c92ea-7c41-4256-b9a5-83ba39c8b0b8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flask_sql/.idea/dataSources/613c92ea-7c41-4256-b9a5-83ba39c8b0b8/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flask_sql/.idea/dataSources/db2f0115-6ea0-4e0f-b049-c3459ba5f91c.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flask_sql/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/data.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/venv/Lib/site-packages/Flask-1.0.2.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/venv/Lib/site-packages/Flask-1.0.2.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/Activate.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/activate.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/easy_install-3.7-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/easy_install-3.7-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/easy_install-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/easy_install-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/flask.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/flask.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/pip-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/pip-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/pip3-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/pip3-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/pip3.7-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/venv/Scripts/pip3.7-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask_sql/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_sql/venv/pip-selfcheck.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uwsgi.ini" beforeDir="false" afterPath="$PROJECT_DIR$/uwsgi.ini" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,19 +86,19 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="22" />
-          <entry key="ini" value="94" />
+          <entry key="ini" value="95" />
           <entry key="md" value="261" />
-          <entry key="py" value="2812" />
+          <entry key="py" value="2822" />
           <entry key="sql" value="24" />
-          <entry key="txt" value="206" />
+          <entry key="txt" value="218" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Ini" value="94" />
+          <entry key="Ini" value="95" />
           <entry key="Markdown" value="261" />
-          <entry key="PLAIN_TEXT" value="228" />
-          <entry key="Python" value="2812" />
+          <entry key="PLAIN_TEXT" value="240" />
+          <entry key="Python" value="2822" />
           <entry key="Scratch" value="24" />
         </counts>
       </usages-collector>
@@ -132,8 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -162,7 +139,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runtime.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -180,11 +157,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/uwsgi.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -257,15 +234,15 @@
         <option value="$PROJECT_DIR$/Modules/user.py" />
         <option value="$PROJECT_DIR$/resources/user.py" />
         <option value="$PROJECT_DIR$/Modules/item.py" />
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/resources/item.py" />
         <option value="$PROJECT_DIR$/Modules/store.py" />
         <option value="$PROJECT_DIR$/resources/store.py" />
         <option value="$PROJECT_DIR$/Readme.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/uwsgi.ini" />
         <option value="$PROJECT_DIR$/runtime.txt" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/uwsgi.ini" />
       </list>
     </option>
   </component>
@@ -293,6 +270,11 @@
             <path>
               <item name="flask_sqlAlchemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="flask_sqlAlchemy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flask_sqlAlchemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask_sqlAlchemy" type="462c0819:PsiDirectoryNode" />
+              <item name="app.py" type="8704e2dd:PyFileNode" />
             </path>
           </expand>
           <select />
@@ -569,7 +551,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546154263369</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="deployment">
+      <created>1546155019162</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1546155019162</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -643,7 +632,8 @@
     <MESSAGE value="sqlalchemy for rest Api , session , refactor and many more" />
     <MESSAGE value="store module created with forginky" />
     <MESSAGE value="git ignore added" />
-    <option name="LAST_COMMIT_MESSAGE" value="git ignore added" />
+    <MESSAGE value="deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="deployment" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resources/__init__.py">
@@ -707,16 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Modules/store.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
@@ -751,13 +731,6 @@
     <entry file="file://$PROJECT_DIR$/requirments.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/uwsgi.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Security.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -779,6 +752,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uwsgi.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
